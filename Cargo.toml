@@ -1,0 +1,6 @@
+[package]
+name = "mygrep"
+version = "0.1.0"
+authors = ["tigerk <kimhwawoon@gmail.com>"]
+
+[dependencies]
