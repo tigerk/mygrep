@@ -1,5 +1,6 @@
 # mygrep
-实现grep功能，using Rust Lang
+
+### preinstall Rust Lang
 
 ```
 // 在peom.txt中查找to
